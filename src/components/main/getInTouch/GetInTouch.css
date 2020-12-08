@@ -6,6 +6,7 @@
     justify-content: flex-end;
     align-items: center;
 }
+
 .container{
     background-color: #339989;
     height: 90%;
@@ -16,12 +17,14 @@
     align-items: flex-start;
     color: white;
 }
+
 .form{
     width: 70%;;
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
 }
+
 .input{
     display: flex;
     padding-top: 15px;
@@ -29,17 +32,21 @@
     flex-direction: column;
     align-items: flex-start;
 }
+
 .field{
     background-color: white;
     width: 100%;
 
 }
+
 .btn{
     padding: 15px !important;
 }
+
 .length{
     width:90%;
 }
+
 @media only screen and (max-width:768px){
     .form{
         flex-direction: column;
@@ -56,7 +63,7 @@
         width: 70%;
       }
   }
-  @media only screen and (max-width:992px){
+@media only screen and (max-width:992px){
     .container{
       width: 85%;
       margin-top: 90px !important;
@@ -64,12 +71,13 @@
     .form{
         width: 88%;
     }
-  }
-  @media only screen and (max-width:600px){
+}
+
+@media only screen and (max-width:600px){
       .container{
           width: 100%;
       }
       .form{
         width: 100% !important;
     }
-  }
+}

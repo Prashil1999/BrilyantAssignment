@@ -9,9 +9,11 @@
     position: fixed; */
     background-color: white;
 }
+
 .logo-container{
     width: 30%;
 }
+
 .logo{
     padding: 20px;
     color: #CA2128;
@@ -20,6 +22,7 @@
     cursor: pointer;
     text-decoration: none !important;
 }
+
 .header-content{
     width: 70%;
     display: flex;
@@ -33,6 +36,7 @@
 .careers{
     padding: 0 10px 0 0;
 }
+
 .touch{
     padding: 0 10px 0 0;
 }
@@ -45,9 +49,9 @@
 }
 
 @media only screen and (max-width:769px){
-.header-content{
-    display: none;
-}
+    .header-content{
+        display: none;
+    }
 
 }
 

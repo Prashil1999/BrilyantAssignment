@@ -22,57 +22,75 @@ body {
   
   }
 }
+
 .bold{
   font-weight: bold !important;
 }
+
 .size14{
   font-size: 14px !important;
 }
+
 .size16{
   font-size: 16px !important;
 }
+
 .size18{
   font-size: 18px !important;
 }
+
 .size22{
   font-size: 22px !important;
 }
+
 .size12{
   font-size: 12px !important;
+
 }
 .paddingTop5{
   padding-top: 5px;
 }
+
 .marginTop5{
   margin-top: 5px;
 }
+
 .marginTop20{
   margin-top: 20px !important;
 }
+
 .paddingTop10{
   padding-top: 10px;
 }
+
 .paddingTop15{
   padding-top: 15px;
 }
+
 .paddingTop20{
   padding-top: 20px;
 }
+
 .colorSecondary{
   color: #A11D2F;
 }
+
 .colorGray{
   color:  #7d878e;
 }
+
 .width20{
   width: 20%;
 }
+
 .width30{
   width: 30%;
 }
+
 .width10{
   width: 10%;
 }
+
 .width40{
   width: 40%;
 }
